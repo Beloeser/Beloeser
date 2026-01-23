@@ -1,17 +1,30 @@
-## Hi there 👋
+# Bernardo Loeser Amaral 👋
 
-<!--
-**Beloeser/Beloeser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em **Engenharia de Controle e Automação** na **UFMG**.  
+Foco em **Inteligência Artificial, otimização e algoritmos evolucionários**.  
+Experiência prática em **web, mobile e projetos de algoritmos complexos**.
 
-Here are some ideas to get you started:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&langs_count=6&theme=radical)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens mais usadas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## Principais áreas
+
+- Desenvolvimento de **Inteligência Artificial e algoritmos de otimização**  
+- Implementação de **computação evolucionária**  
+- Desenvolvimento **web e mobile** (React, React Native, Node.js)  
+- Projetos de **Estrutura de Dados e algoritmos**  
+
+---
+
+## Contato
+
+- [GitHub](https://github.com/Beloeser)  
+- [LinkedIn](https://linkedin.com/in/beloeser)  
+- Email: bernardoloeseramaral@gmail.com
