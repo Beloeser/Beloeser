@@ -2,7 +2,7 @@
 
 Graduando em **Engenharia de Controle e Automação** na **UFMG**.  
 Foco em **Inteligência Artificial, otimização e algoritmos evolucionários**.  
-Experiência prática em **web, mobile e projetos de algoritmos complexos**.
+Experiência prática em **web, mobile e projetos de algoritmos e estruturas de dados**.
 
 ---
 
