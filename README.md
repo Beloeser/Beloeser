@@ -1,12 +1,12 @@
 # Bernardo Loeser Amaral 👋
 
-Graduando em **Engenharia de Controle e Automação** na **UFMG**.  
-Foco em **Inteligência Artificial, otimização e algoritmos evolucionários**.  
-Experiência prática em **web, mobile e projetos de algoritmos e estruturas de dados**.
+Undergraduate student in **Control and Automation Engineering** at **UFMG (Federal University of Minas Gerais)**.  
+Strong focus on **Artificial Intelligence, optimization, and evolutionary algorithms**.  
+Hands-on experience with **web and mobile development**, as well as **algorithms and data structures projects**.
 
 ---
 
-## Linguagens mais usadas
+## 🚀 Most Used Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,17 +14,18 @@ Experiência prática em **web, mobile e projetos de algoritmos e estruturas de 
 
 ---
 
-## Principais áreas
+## 🧠 Main Areas of Interest
 
-- Desenvolvimento de **Inteligência Artificial e algoritmos de otimização**  
-- Implementação de **computação evolucionária**  
-- Desenvolvimento **web e mobile** (React, React Native, Node.js)  
-- Projetos de **Estrutura de Dados e algoritmos**  
+- **Artificial Intelligence** development and **optimization algorithms**  
+- **Evolutionary computation** and metaheuristics  
+- **Web and mobile development** (React, React Native, Node.js)  
+- **Data Structures and Algorithms** projects  
 
 ---
 
-## Contato
+## 📫 Get in Touch
 
-- [GitHub](https://github.com/Beloeser)  
-- [LinkedIn](https://linkedin.com/in/beloeser)  
-- Email: bernardoloeseramaral@gmail.com
+- 💻 [GitHub](https://github.com/Beloeser)  
+- 🔗 [LinkedIn](https://linkedin.com/in/beloeser)  
+- ✉️ Email: **bernardoloeseramaral@gmail.com**
+
