@@ -19,7 +19,14 @@ Hands-on experience with **web and mobile development**, as well as **algorithms
 - **Artificial Intelligence** development and **optimization algorithms**  
 - **Evolutionary computation** and metaheuristics  
 - **Web and mobile development** (React, React Native, Node.js)  
-- **Data Structures and Algorithms** projects  
+- **Data Structures and Algorithms** projects
+
+## 🔍 Current Focus
+
+- Developing a stronger foundation in **Machine Learning**, especially in data preparation, model training, and evaluation  
+- Studying **optimization methods** to improve model performance and approach complex problems  
+ with practical engineering applications  
+
 
 ---
 
