@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # Bernardo Loeser Amaral 👋
 
 Undergraduate student in **Control and Automation Engineering** at **UFMG**.  
